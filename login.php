@@ -110,10 +110,7 @@ if(isset($_POST["submitted"])){
 	   <?php echo $formerror?>
 	   </div> 
 	   
-	   <div class="form-group form-inline  d-flex justify-content-center mt-0">
-        <a  href="modules/user/register.php">Register Now!</a>&nbsp;&nbsp;
-        <a  href="./forgetpassword.php">Forget Password?</a>
-        </div>
+	   
         
      </form>
 	</div>
